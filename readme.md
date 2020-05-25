@@ -7,7 +7,7 @@
 
 | Problem	| Methods	| Libs	|
 | ---       | ---       | ---   |
-| Company Fault Prediction (Multivariate Classification) | Naive Bayes Classifier, Random Forest Classifier | `sklearn`, `matplotlib` |
+| Company Fault Prediction <br />(Multivariate Classification) | Naive Bayes Classifier, <br />Random Forest Classifier | `sklearn`, `matplotlib` |
 
 
 ## Contents
