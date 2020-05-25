@@ -12,8 +12,7 @@
 - [Experiments](#experiments)
 - [Conclusion](#conclusion)
 - [References](#references)
-- [Appendix: Features of the Dataset](#appendix--features-of-the-dataset)
-- [Appendix: The Dataset & The Code](#appendix--the-dataset)
+
 
 Download this study in presentation format [here](./company_fault_pred_pres.pdf)
   
@@ -40,11 +39,11 @@ Figure 1: Yearly bankruptcy distribution of the dataset
 
 As shown on the figure, the data distribution is imbalanced. For each year, the distribution of the data is summarized below.
 
-• Year 2007 has 7.027 observations, 271 of them are bankrupt (4%)
-• Year 2008 has 17.200 observations, 400 of them are bankrupt (4%)
-• Year 2009 has 27.703 observations, 495 of them are bankrupt (5%)
-• Year 2010 has 37.495 observations, 514 of them are bankrupt (5%)
-• Year 2011 has 43.405 observations, 410 of them are bankrupt (7%)
+- Year 2007 has 7.027 observations, 271 of them are bankrupt (4%)
+- Year 2008 has 17.200 observations, 400 of them are bankrupt (4%)
+- Year 2009 has 27.703 observations, 495 of them are bankrupt (5%)
+- Year 2010 has 37.495 observations, 514 of them are bankrupt (5%)
+- Year 2011 has 43.405 observations, 410 of them are bankrupt (7%)
 
 The features available in the dataset are presented in the Appendix. There are 64 numerical features for each observation.
 
@@ -288,8 +287,3 @@ Available at: https://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptc
 -   X63 sales / short-term liabilities
     
 -   X64 sales / fixed assets
-
-# Appendix: The Dataset & The Code
-
-Merged dataset to run the code is available [here](./polish_all_years.csv)
-Jupyter notebook is available [here](./company_fault_pred.ipynb)
