@@ -40,11 +40,11 @@ Figure 1: Yearly bankruptcy distribution of the dataset
 
 As shown on the figure, the data distribution is imbalanced. For each year, the distribution of the data is summarized below.
 
-• Year 2007 has 7.027 observations, 271 of them are bankrupt (4%)
-• Year 2008 has 17.200 observations, 400 of them are bankrupt (4%)
-• Year 2009 has 27.703 observations, 495 of them are bankrupt (5%)
-• Year 2010 has 37.495 observations, 514 of them are bankrupt (5%)
-• Year 2011 has 43.405 observations, 410 of them are bankrupt (7%)
+- Year 2007 has 7.027 observations, 271 of them are bankrupt (4%)
+- Year 2008 has 17.200 observations, 400 of them are bankrupt (4%)
+- Year 2009 has 27.703 observations, 495 of them are bankrupt (5%)
+- Year 2010 has 37.495 observations, 514 of them are bankrupt (5%)
+- Year 2011 has 43.405 observations, 410 of them are bankrupt (7%)
 
 The features available in the dataset are presented in the Appendix. There are 64 numerical features for each observation.
 
