@@ -3,7 +3,12 @@
 
 # Company Bankruptcy Prediction with Naïve Bayes Algorithm
 
-  
+![bankrupt](img/sorry-closed.png)
+
+| Problem	| Methods	| Libs	|
+| ---       | ---       | ---   |
+| Company Fault Prediction (Multivariate Classification) | Naive Bayes Classifier, Random Forest Classifier | `sklearn`, `matplotlib` |
+
 
 ## Contents
 
